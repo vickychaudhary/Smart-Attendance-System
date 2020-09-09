@@ -11,3 +11,7 @@ Steps to follow:
   are distinctively recognisable and donot overlaps.
 5) Also the faces found in group class should already be feeded to model otherwise it will create a blank entry.
 6) Explore the codes individual for each buttons !!!!
+
+
+Also Refer to https://pypi.org/project/face-recognition/ for more details on face_recognition module.
+
